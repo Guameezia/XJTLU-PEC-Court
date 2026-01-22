@@ -17,7 +17,7 @@ XJTLUer苦于午夜手速慢已久，我们可以利用一些帮助达到抢场�
 ### 1. 克隆或下载项目
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Guameezia/PECCourt.git
 cd PECcourt
 ```
 
